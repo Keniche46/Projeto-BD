@@ -5,7 +5,7 @@
 ### - Sandrine Abreu da Silva
 ### - Isaú Gomes Ribeiro
 ### - Antônio Marcílio Nunes Rodrigues
-### -
+### - Álvaro Filipe de Abreu Ribeiro
 
 # OBJETIVO
 O Objetivo deste trabalho é consolidar o aprendizado ao integrar todas as de moedelagem
