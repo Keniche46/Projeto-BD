@@ -1,3 +1,12 @@
+# BANCO DE DADOS
+
+## Grupo:
+### - Antônio Heitor Martins Valentim
+### - Sandrine Abreu da Silva
+### - Isaú Gomes Ribeiro
+### - Antônio Marcílio Nunes Rodrigues
+### -
+
 # OBJETIVO
 O Objetivo deste trabalho é consolidar o aprendizado ao integrar todas as de moedelagem
 de um banco de dados em um unico projeto. Para isso, voce deverá imaginar que está
